@@ -11,7 +11,7 @@
 
 A successfull classroom management can increase student success and create a productive and cooperative learning environment. Having a web application that help manage class activities is in fact an essential step in achieving this productive environment.
 
-![Classroom Manager App](https://github.com/yassine-rd/portfolio-website/blob/master/images/classroom_manager_banner.png)
+![Classroom Manager App](https://github.com/yassine-rd/portfolio-website/blob/master/images/classroom-manager-banner.png)
 
 ## 🎯 Project Aim
 
