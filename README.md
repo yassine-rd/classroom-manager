@@ -1,4 +1,4 @@
-# [Classroom Manager](https://github.com/yassine-rd/classroom-manager-backend)
+# [Classroom Manager](https://github.com/yassine-rd/classroom-manager)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/yassine-rd/classroom-manager?color=red&label=repository%20size)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yassine-rd/classroom-manager?color=red)
